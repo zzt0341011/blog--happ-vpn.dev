@@ -64,7 +64,7 @@ vless://a346c521-7a7f-452b-9356-a4893feb5982@62.133.63.45:8444?encryption=none&s
 
 Откройте Happ, нажмите «+» справа сверху и выберите «Импорт из буфера обмена».
 
-![happ-vpn-free-1001.jpg](../../../_resources/happ-vpn-free-1001.jpg)
+![happ-vpn-free-1001.jpg](https://happ-vpn.dev/img/happ-vpn-free-1001.jpg)
 
 ### Шаг 3. Подключение и тестирование
 

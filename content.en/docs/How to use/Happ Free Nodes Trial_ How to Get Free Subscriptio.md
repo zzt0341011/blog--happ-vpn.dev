@@ -64,7 +64,7 @@ vless://a346c521-7a7f-452b-9356-a4893feb5982@62.133.63.45:8444?encryption=none&s
 
 Open Happ, tap the “+” in the top-right corner, and choose “Import from Clipboard”.
 
-![happ-vpn-free-1001.jpg](../../../_resources/happ-vpn-free-1001.jpg)
+![happ-vpn-free-1001.jpg](https://happ-vpn.dev/img/happ-vpn-free-1001.jpg)
 
 ### Step 3: Connect and Test
 
